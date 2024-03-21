@@ -9,12 +9,14 @@
 </p>
 
 <h3>Stats:</h3>
-<p align="center"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mikcad&theme=tokyonight&show_icons=true"/>
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikcad&layout=compact&theme=tokyonight&card_width=320"/></p>
+<p align="center">
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikcad&layout=compact&theme=tokyonight&card_width=320"/>
+</p>
 
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickad&&theme=tokyonight" alt="mic" /></p>
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mikcad&theme=tokyonight&show_icons=true"/>
 
 **mikcad/mikcad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
